@@ -1,2 +1,8 @@
 # linux
-scripts em shell
+
+
+
+#scripts em shell
+
+
+#License GPLv3
